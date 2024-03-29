@@ -4,11 +4,14 @@
 
 - 🌱 I’m currently enrolled in a **Skills Bootcamp in Software Engineering (Fundamentals) at CoGrammar HyperionDev**
 
-- 📫 How to reach me **joaoantonioharada@gmail.com**
+- 📫 How to reach me
+  **joaoantonioharada@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/joao-antonio-arada-b6ab5a151/](https://www.linkedin.com/in/joao-antonio-arada-b6ab5a151/)
+- 📄 Know about my experiences
+  [https://www.linkedin.com/in/joao-antonio-arada-b6ab5a151/](https://www.linkedin.com/in/joao-antonio-arada-b6ab5a151/)
 
-- ⚡ Fun fact **My hobbies are playing online games eg. _Genshin Impact, Tekken 8, Dota 2_**
+- ⚡ Fun fact
+  **My hobbies are playing online games eg. _Genshin Impact, Tekken 8, Dota 2_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
