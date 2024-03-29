@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joao Antonio Arada</h1>
 <h3 align="center">A hardworking Civil Engineer that is planning to change my career into tech.</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://gifer.com/en/9TLY)">
 
-- 🌱 I’m currently learning **Skills Bootcamp in Software Engineering (Fundamentals)**
+- 🌱 I’m currently enrolled in a **Skills Bootcamp in Software Engineering (Fundamentals)**
 
 - 📫 How to reach me **joaoantonioharada@gmail.com**
 
