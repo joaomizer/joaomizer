@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/joao-antonio-arada-b6ab5a151/](https://www.linkedin.com/in/joao-antonio-arada-b6ab5a151/)
 
-- ⚡ Fun fact **My hobbies are playing online games eg. Genshin Impact, Tekken 8, Dota 2**
+- ⚡ Fun fact **My hobbies are playing online games eg. __Genshin Impact, Tekken 8, Dota 2__**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
