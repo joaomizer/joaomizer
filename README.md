@@ -14,8 +14,6 @@
 <a href="https://twitter.com/joaomizer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joaomizer" height="30" width="40" /></a>
 <a href="https://fb.com/joao.arada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joao.arada" height="30" width="40" /></a>
 <a href="https://instagram.com/joaomizer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaomizer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmcaenx7o8x-hm9llb9sq-q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmcaenx7o8x-hm9llb9sq-q" height="30" width="40" /></a>
-<a href="https://discord.gg/joaomizer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="joaomizer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
