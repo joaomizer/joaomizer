@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joao Antonio Arada</h1>
 <h3 align="center">A hardworking Civil Engineer that is planning to change my career into tech.</h3>
 
-- 🌱 I’m currently learning **Skills Bootcamp in Software Engineering (Fundamentals)**
+- 🌱 I’m currently enrolled in a **Skills Bootcamp in Software Engineering (Fundamentals)**
 
-- 📫 How to reach me **joaoantonioharada@gmail.com**
+- 📫 How to reach me email: **joaoantonioharada@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/joao-antonio-arada-b6ab5a151/](https://www.linkedin.com/in/joao-antonio-arada-b6ab5a151/)
 
